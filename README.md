@@ -4,7 +4,7 @@
 The `Number Fact` is the final project of DES427 course developed by using react native. The application provides interesting facts about number, date, and year that user input into the system.
 
 ## API  
-We use the no key API to develop this project from http://numbersapi.com/  
+We use the no key API to develop this project from [here](http://numbersapi.com/).
 
 ## Installation
 1. Clone this repository
