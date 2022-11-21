@@ -1,7 +1,7 @@
 # Final Project of DES427
 
 ## About
-The `Number Fact` is the final project of DES427 course developed by using react native. The application provides interesting facts about number, date, and year that user input into the system. The API is from http://numbersapi.com/
+The `Number Fact` is the final project of DES427 course developed by using react native. The application provides interesting facts about number, date, and year that user input into the system.
 
 ## API  
 We use the no key API to develop this project from http://numbersapi.com/  
